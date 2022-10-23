@@ -1,2 +1,3 @@
 # mini-project
-Bank customer churnred
+Bank customer churnred prediction
+to be run on colab
